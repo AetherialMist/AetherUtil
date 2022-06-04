@@ -1,2 +1,3 @@
 # AetherUtil
-Common utility classes for the rest of my projects 
+
+Common utility classes for the rest of my projects
